@@ -13,12 +13,12 @@ steps for pom.xml :
 
 
 Steps to flow :
-              config
-              model
-              dao (JpaRepositoies)
-              contoller
-              service
-              service_impl
+              config ->
+              model ->
+              dao (JpaRepositoies) ->
+              contoller ->
+              service ->
+              service_impl ->
               
               
                   
