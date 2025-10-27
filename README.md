@@ -10,5 +10,15 @@ steps for pom.xml :
                   spring-webmvc (for building web applications)
                   spring-orm (for integration b/n the spring and ORM frameworks ..like Hibernate and JPA to simplify db operations)
                   Hibernate-core (for handles object-relational mapping(ORM) b/n java classes and db tables)
-                  
+
+
+Steps to flow :
+              config
+              model
+              dao (JpaRepositoies)
+              contoller
+              service
+              service_impl
+              
+              
                   
