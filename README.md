@@ -7,7 +7,8 @@ right click on project -> buildpath -> config build path -> libraies  jre sys li
 steps for pom.xml :
                   mysql-connector-J ( for database connectivity)
                   spring-context ( for manageing and accessing beans)
-                  spring-mvc (for building web applications)
-                  spring-orm (for integration b/n the spring and ORM frameworks like Hibernate and JPA to simplify db operations)
-                  Hibernate-core (for handles object-relato=ional mapping(ORM) b/n java classes and db tables)
+                  spring-webmvc (for building web applications)
+                  spring-orm (for integration b/n the spring and ORM frameworks ..like Hibernate and JPA to simplify db operations)
+                  Hibernate-core (for handles object-relational mapping(ORM) b/n java classes and db tables)
+                  
                   
